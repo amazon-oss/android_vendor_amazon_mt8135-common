@@ -59,7 +59,6 @@ PRODUCT_COPY_FILES += \
     vendor/amazon/mt8135-common/proprietary/lib/libsched.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libsched.so \
     vendor/amazon/mt8135-common/proprietary/lib/libspeech_enh_lib.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libspeech_enh_lib.so \
     vendor/amazon/mt8135-common/proprietary/lib/libstagefrighthw.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libstagefrighthw.so \
-    vendor/amazon/mt8135-common/proprietary/lib/libthermalservice.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libthermalservice.so \
     vendor/amazon/mt8135-common/proprietary/lib/libtz_uree.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libtz_uree.so \
     vendor/amazon/mt8135-common/proprietary/lib/liburee_meta_drmkeyinstall_v2.so:$(TARGET_COPY_OUT_SYSTEM)/lib/liburee_meta_drmkeyinstall_v2.so \
     vendor/amazon/mt8135-common/proprietary/lib/libvcodec_utility.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libvcodec_utility.so \
