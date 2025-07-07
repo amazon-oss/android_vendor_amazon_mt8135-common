@@ -20,7 +20,6 @@ PRODUCT_COPY_FILES += \
     vendor/amazon/mt8135-common/proprietary/bin/thermal_manager:$(TARGET_COPY_OUT_SYSTEM)/bin/thermal_manager \
     vendor/amazon/mt8135-common/proprietary/bin/wlan_loader:$(TARGET_COPY_OUT_SYSTEM)/bin/wlan_loader \
     vendor/amazon/mt8135-common/proprietary/bin/wmt_loader:$(TARGET_COPY_OUT_SYSTEM)/bin/wmt_loader \
-    vendor/amazon/mt8135-common/proprietary/bin/wpa_supplicant:$(TARGET_COPY_OUT_SYSTEM)/bin/wpa_supplicant \
     vendor/amazon/mt8135-common/proprietary/etc/.tp/thermal.conf:$(TARGET_COPY_OUT_SYSTEM)/etc/.tp/thermal.conf \
     vendor/amazon/mt8135-common/proprietary/etc/.tp/thermal.encrypt.conf:$(TARGET_COPY_OUT_SYSTEM)/etc/.tp/thermal.encrypt.conf \
     vendor/amazon/mt8135-common/proprietary/etc/.tp/thermal.off.conf:$(TARGET_COPY_OUT_SYSTEM)/etc/.tp/thermal.off.conf \
